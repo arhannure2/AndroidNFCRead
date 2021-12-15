@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">AndroidNFCRead</string>
+	<string name="splash_title">NFC Read</string>
+	<string name="splash_title_main"> Android POC</string>
+	<string name="title_main"> READ WITH NFC</string>
+	<string name="sub_title_main"> Tab your NFC tag on mobile to read.</string>
+	<string name="nfc_title"> NFC TAG DETECTED!</string>
+	<string name="okay"> Okay </string>
+</resources>
