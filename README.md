@@ -1,14 +1,6 @@
 # Android NFC Read In Kotlin 
 
-## ScreenShot Notes : 
-1. NFC supported ?
-Device has to support NFC feature ( Hardware Feature )
-2. NFC enabled ?
-User must enable NFC feature in device setting.
-3. If NFC isn ot enable in setting you may ask user to enable is via Setting screen.
-4. Now user can tab NFC Tag on the mobile to read.
-5. Once we get intent just disply in on screen and show it to use and process data according to your requirement.
-
+## ScreenShot: 
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/57435729/146185056-0d0e3815-51e1-421b-ba61-ecb58a52fca9.png" width="150" height="300">
